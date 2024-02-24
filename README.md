@@ -10,7 +10,7 @@
   <samp>
     <a href="https://www.google.com/search?q=Nimesh+Lathiya">「 Google Me 」</a>
     <br>「<samp>
-                <b>A passionate React js developer from India</b>
+                <b>A Passionate React js Developer from India</b>
         </samp>」<br>
      <br>
   </samp>
@@ -40,7 +40,7 @@
  
 <p>
  <img align="right" width="350" src="[/assets/programmer.gif](https://github.com/alsiam/alsiam/blob/main/assets/programmer.gif?raw=true)" alt="Coding gif" />
-  
+ 🌱 &emsp; I’m currently learning **MERN stack/full stack development**
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
  📧 &emsp; Reach me anytime: nlathiya40@gmail.com<br/><br/>
@@ -52,13 +52,8 @@
 <br/>
 <br/>
 
-<h3 align="center">A passionate React js developer from India</h3>
-
-- 🌱 I’m currently learning **MERN stack/full stack development**
 
 <!-- - 👨‍💻 All of my projects are available at [portfolio](https://milankatira.vercel.app/) -->
-
-- 📫 How to reach me **nlathiya40@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 
