@@ -59,15 +59,15 @@
 
  [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,redux,vite,figma,tailwind,bootstrap,git,github,stackoverflow,visualstudio)](https://skillicons.dev)
 <p align="left">
-
+<br/>
 <!-- <a href="https://expressjs.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> -->
 <!-- <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> -->
 <!-- <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> -->
 </p>
-
+<br/>
 <h4 align="left">Frontend technology</h4>
 - ReactJs, HTML, CSS, SCSS
-
+<br/>
 <!-- <h4 align="left">Backend technology </h4>
 - NodeJs, ExpressJs, Nestjs, Adminbro, KeystoneJs -->
 
