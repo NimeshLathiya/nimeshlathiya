@@ -10,6 +10,9 @@
   <samp>
     <a href="https://www.google.com/search?q=Nimesh+Lathiya">「 Google Me 」</a>
     <br>
+    「 <h3 align="center">A passionate React js developer from India</h3> 」
+    <br>
+     <br>
   </samp>
 </p>
 
