@@ -54,9 +54,9 @@
 
 <!-- ✍️ Blog Posts : -->
 
-<table><tr><td valign="top">
+<!--<table><tr><td valign="top">
 
 <!--
 ![Milankatira's blog](https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=milankatira26&limit=6&theme=dark) -->
 
-</td></tr></table>
+</td></tr></table>-->
