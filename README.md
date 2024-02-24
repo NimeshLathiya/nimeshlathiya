@@ -50,16 +50,7 @@
 </p>
 
 <br/>
-<br/>
-<br/>
-
-
 <!-- - 👨‍💻 All of my projects are available at [portfolio](https://milankatira.vercel.app/) -->
-
-<h3 align="left">Connect with me:</h3>
-
-[![Linkedin Badge](https://img.shields.io/badge/-nimeshlathiya-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nimesh-lathiya-267558188/)
-
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=milankatira&" alt="milankatira" /></p> -->
 
 <h3 align="left"> 🛠️ Languages and Tools:</h3>
