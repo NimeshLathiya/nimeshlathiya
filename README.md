@@ -39,7 +39,7 @@
  # About me
  
 <p>
- <img align="right" width="350" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2J2ZzhhNzA1N3UzYXp2ODJicmZiejZ4cmExZGt2M3ZyOHZ1eG5raCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding gif" />
+  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
  🌱 &emsp; I’m currently learning <b>MERN stack/full stack development</b> <br/><br/>
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features <br/><br/>
