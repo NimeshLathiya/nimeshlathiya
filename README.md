@@ -21,7 +21,7 @@
 
 <h3 align="left"> 🛠️ Languages and Tools:</h3>
 
- [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,,redux,vite,figma,tailwind,bootstrap,git,github,stackoverflow,visualstudio)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,redux,vite,figma,tailwind,bootstrap,git,github,stackoverflow,visualstudio)](https://skillicons.dev)
 <p align="left">
 
 <!-- <a href="https://expressjs.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> -->
