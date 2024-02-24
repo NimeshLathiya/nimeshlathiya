@@ -67,7 +67,7 @@
 <br/>
 <h4 align="left">Frontend technology</h4>
 - ReactJs, HTML, CSS, SCSS
-<br/>
+<br/> <br/><br/>
 <!-- <h4 align="left">Backend technology </h4>
 - NodeJs, ExpressJs, Nestjs, Adminbro, KeystoneJs -->
 
