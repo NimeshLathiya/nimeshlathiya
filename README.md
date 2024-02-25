@@ -37,7 +37,7 @@
 
 <!-- About Section -->
  # About me
- 
+ <br/>
 <p>
   <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
 🌱 &emsp;I’m currently learning <b>MERN stack/full stack development</b> <br/><br/>
@@ -51,7 +51,6 @@
 
 <br/>
 <br/>
-<br/>
 <!-- - 👨‍💻 All of my projects are available at [portfolio](https://milankatira.vercel.app/) -->
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=milankatira&" alt="milankatira" /></p> -->
 
@@ -63,9 +62,6 @@
 <!-- <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> -->
 <!-- <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> -->
 </p>
-<br/>
-<h4 align="left">Frontend technology</h4>
-- ReactJs, HTML, CSS, SCSS
 <br/> <br/><br/>
 <!-- <h4 align="left">Backend technology </h4>
 - NodeJs, ExpressJs, Nestjs, Adminbro, KeystoneJs -->
