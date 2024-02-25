@@ -51,10 +51,8 @@
 </p>
 
 <br/>
-<br/>
 <!-- - 👨‍💻 All of my projects are available at [portfolio](https://milankatira.vercel.app/) -->
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=milankatira&" alt="milankatira" /></p> -->
-
 <h3 align="left"> 🛠️ Languages and Tools:</h3>
 
  [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,redux,vite,figma,tailwind,bootstrap,git,github,stackoverflow,visualstudio)](https://skillicons.dev)
@@ -63,7 +61,7 @@
 <!-- <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> -->
 <!-- <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> -->
 </p>
-<br/> <br/><br/>
+<br/> 
 <!-- <h4 align="left">Backend technology </h4>
 - NodeJs, ExpressJs, Nestjs, Adminbro, KeystoneJs -->
 
