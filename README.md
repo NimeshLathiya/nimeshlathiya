@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=your-NimeshLathiya&style=flat-square)
+![](https://komarev.com/ghpvc/?username=your-NimeshLathiya&style=flat&color=red)
 
 <!-- Intro  -->
 <h3 align="center">
