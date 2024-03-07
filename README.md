@@ -74,7 +74,7 @@
 - MongoDB, PostgreSQL, Graphql -->
 
 👨‍💻 Github Status
-<div align="center" width="100%" >
+
 <table><tr><td valign="center" align="center" width="100%">
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NimeshLathiya&show_icons=true&theme=dark&locale=en" alt="nimeshlathiya" /></p>
@@ -84,7 +84,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NimeshLathiya&layout=compact&theme=vision-friendly-dark)
 
 </td></tr></table>
-</div>
 <br/>
 
 <!-- ✍️ Blog Posts : -->
