@@ -75,7 +75,7 @@
 
 👨‍💻 Github Status
 
-<table><tr><td valign="center" width="50%">
+<table><tr><td valign="center" align="center" width="70%">
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NimeshLathiya&show_icons=true&theme=dark&locale=en" alt="nimeshlathiya" /></p>
 
