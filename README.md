@@ -6,7 +6,6 @@
                 <b><a target="_blank">Nimesh Lathiya</a></b>
         </samp>
 </h3>
-<div></div>
 
 <p align="center"> 
   <samp>
