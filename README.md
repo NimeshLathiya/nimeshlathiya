@@ -45,7 +45,7 @@
 🌱 &emsp;I’m currently learning <b>MERN stack/full stack development</b> <br/><br/>
 ✌️ &emsp;Enjoy to do programming and sharing knowledge <br/><br/>
 ❤️ &emsp;Love to writing code and learning new features <br/><br/>
-📫 &emsp;How to reach me <a href="" target="_blank">nlathiya40@gmail.com</a> 
+📫 &emsp;How to reach me <a href="" target="_blank">nlathiya40@gmail.com</a> <br/><br/>
 💬 &emsp;Ask me about anything <a href="https://wa.me/7405602207" target="_blank" alt="nimeshlathiya"> here </a> <br/><br/>
 
 
