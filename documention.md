@@ -1,4 +1,4 @@
-## How to add this readme to your 
+## How to add this readme to your profile
 
 - Fork the Repositorie
 - then edit repo name as your Github Username
