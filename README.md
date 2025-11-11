@@ -56,7 +56,7 @@
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=milankatira&" alt="milankatira" /></p> -->
 <h3 align="left"> 🛠️ Languages and Tools:</h3>
 
- [![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,notion,npm,ps,postman,nextjs,react,redux,mongodb,vite,styledcomponents,ae,firebase,ai,figma,tailwind,bootstrap,git,github,stackoverflow,vscode,visualstudio)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,nextjs,react,redux,mongodb,vite,styledcomponents,ae,ps,ai,firebase,figma,tailwind,bootstrap,git,github,notion,npm,postman,stackoverflow,vscode,visualstudio)](https://skillicons.dev)
 <p align="left">
 <!-- <a href="https://expressjs.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> -->
 <!-- <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> -->
