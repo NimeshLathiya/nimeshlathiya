@@ -11,7 +11,7 @@
   <samp>
 <!--     <a href="https://www.google.com/search?q=Nimesh+Lathiya">「 Google Me 」</a> -->
     <br> 
-    「 I am a Next.js Web Application Developer from <b>India</b> 」
+    「 I am a React.js Web Application Developer from <b>India</b> 」
     <br>
      <br>
   </samp>
